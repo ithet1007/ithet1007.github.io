@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2023
-- Dong W, You M, **T. He**, et al. An automatic methodology for full dentition maturity staging from OPG images using deep learning. Applied Intelligence, 2023: 1-23.
 - **T. He**, J. Guo, W. Tang, W. Zeng, P. He, F. Zeng, and Z. Yi, “Cascade-refine model for cephalometric landmark detection in high-resolution orthodontic images,” .Knowledge-Based Systems, p. 110332, 2023, doi: 10.1016/j.knosys.2023.110332.
 
 ## 2022
