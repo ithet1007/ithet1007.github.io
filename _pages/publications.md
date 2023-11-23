@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2023
-- Tao He, Guikun Xu, Li Cui, Wei Tang, Jie Long, Jixiang Guo, “Anchor Ball Regression Model for large-scale 3D skull landmark detection，”. Neurocomputing, Volume 567,2024,127051,ISSN 0925-2312. doi: 10.1016/j.neucom.2023.127051.
+- **T. He**, Guikun Xu, Li Cui, Wei Tang, Jie Long, Jixiang Guo, “Anchor Ball Regression Model for large-scale 3D skull landmark detection，”. Neurocomputing, Volume 567,2024,127051,ISSN 0925-2312. doi: 10.1016/j.neucom.2023.127051.
 - Dong, W., You, M., **T. He** et al. An automatic methodology for full dentition maturity staging from OPG images using deep learning. Appl Intell (2023). doi: 10.1007/s10489-023-05096-0
 - **T. He**, J. Guo, W. Tang, W. Zeng, P. He, F. Zeng, and Z. Yi, “Cascade-refine model for cephalometric landmark detection in high-resolution orthodontic images,” .Knowledge-Based Systems, p. 110332, 2023, doi: 10.1016/j.knosys.2023.110332.
 
