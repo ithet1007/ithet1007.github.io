@@ -20,8 +20,8 @@ author_profile: true
 - **T. He**, H. Mao, J. Guo, and Z. Yi, "Cell tracking using deep neural networks with multi-task learning," Image and Vision Computing, vol. 60, pp. 142–153, 2017, doi: 10.1016/j.imavis.2016.11.010.
 
 ## Conference Publication
-- Q. He, **T. He**, and Z. Yi, "Medical image segmentation using discretized node" in Interational Amal Conference on Complex Systems andIntelligent Science, doi:10.1109/CSIS-IAC60628.2023.10363958.
-- Y. Liu, L. Yang, W. Tingting, w, jianhong, **T. He**, and Z. Yi, "An optimized yolo model with local atention for arthritis lesion detecion on x-rayimages" in lntemational Annual Conference on Complex Svstems and imtelligent science, 2023. doi: 10.1109CSIS-IAC60628.2023.10364047.
+- Q. He, **T. He**, and Z. Yi, "Medical image segmentation using discretized nmODE" in Interational Amal Conference on Complex Systems andIntelligent Science, doi:10.1109/CSIS-IAC60628.2023.10363958.
+- Y. Liu, L. Yang, T. Wang, J. Wu, **T. He**, and Z. Yi, "An optimized yolo model with local atention for arthritis lesion detecion on x-rayimages" in lntemational Annual Conference on Complex Svstems and imtelligent science, 2023. doi: 10.1109CSIS-IAC60628.2023.10364047.
 - **T. He**, J. Guo, J. Wang, X. Xu, and Z. Yi, "Multi-task learning for the segmentation of thoracic organs at risk in ct images." in SegTHOR@ ISBI, 2019, pp. 10–13.
-- B. Wu, J. Jia, **T. He**, J. Du, X. Yi, and Y. Ning, "Inferring users’ emotions for human-mobile voice dialogue applications," in 2016 IEEE International Conference on Multimedia and Expo (ICME), 2016, pp. 1–6, doi: 10.1109/ICME.2016.7552890.
-- J. Jia, J. Huang, G. Shen, **T. He**, Z. Liu, H. Luan, and C. Yan, "Learning to appreciate the aesthetic effects of clothing," in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 30, no. 1, 2016.
+- B. Wu, J. Jia, **T. He**, J. Du, X. Yi, and Y. Ning, "Inferring users’ emotions for human-mobile voice dialogue applications" in 2016 IEEE International Conference on Multimedia and Expo (ICME), 2016, pp. 1–6, doi: 10.1109/ICME.2016.7552890.
+- J. Jia, J. Huang, G. Shen, **T. He**, Z. Liu, H. Luan, and C. Yan, "Learning to appreciate the aesthetic effects of clothing" in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 30, no. 1, 2016.
