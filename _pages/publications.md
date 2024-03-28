@@ -5,12 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal Publication
+- H. Niu, Z. Yi, and **T. He\***. "A bidirectional feedforward neural network architecture using the discretized neural memory ordinary differential equation." International Journal of Neural Systems, 2024, doi: 10.1142/S0129065724500151.
 - 邱韬，**何涛**，张强，肖雨璇，郭维华。基于人工智能技术的面相照片标志点自动定位的评价。口腔医学，2023年12月，第43卷，第12期。
 - **T. He**, G. Xu, L. Cui, W, Tang, J. Long, and J. Guo, "Anchor ball regression model for large-scale 3d skul landmark detection", Neurocomputing, vol 567, p.127051,2024.
 - W. Dong, M. You, **T. He**, J. Dai, Y. Tang, Y. Shi, J. Guo, "An automatic methodology for full dentition maturity staging from OPG images using deep learning", Applied Intelligence, pp. 1-23, 2023, doi: 10.1007/s10489-023-05096-0.
 - **T. He**, J. Guo, W. Tang, W. Zeng, P. He, F. Zeng, and Z. Yi, "Cascade-refine model for cephalometric landmark detection in high-resolution orthodontic images", Knowledge-Based Systems, p. 110332, 2023, doi: 10.1016/j.knosys.2023.110332.
 - J. Yao, W. Zeng, **T. He**, S. Zhou, Y. Zhang, J. Guo, and W. Tang, "Automatic localization of cephalometric landmarks based on convolutional neural network," American Journal of Orthodontics and Dentofacial Orthopedics, vol. 161, no. 3, pp. e250–e259, 2022, doi: 10.1016/j.ajodo.2021.09.012.
-- **T. He**, H. Mao, and Z. Yi, "Subtraction gates: Another way to learn long-term dependencies in recurrent neural networks," IEEE Transactions on Neural Networks and Learning Systems, vol. 33, no. 4, pp. 1740–1751, 2022, doi:10.1109/TNNLS.2020.3043752.
+- **T. He**, H. Mao, and Z. Yi, "Subtraction gates: Another way to learn long-term dependencies in recurrent neural networks," IEEE Transactions on Neural Networks and Learning Systems, vol. 33, no. 4, pp. 1740–1751, 2022, doi: 10.1109/TNNLS.2020.3043752.
 - **T. He**, J. Yao, W. Tian, Z. Yi, W. Tang, and J. Guo, "Cephalometric landmark detection by considering translational invariance in the twostage framework," Neurocomputing, vol. 464, pp. 15–26, 2021, doi: 10.1016/j.neucom.2021.08.042.
 - **T. He**, L. Zhang, J. Guo, and Z. Yi, "Multilabel classification by exploiting data-driven pair-wise label dependence," International Journal of Intelligent Systems, vol. 35, no. 9, pp. 1375–1396, 2020, doi: 10.1002/int.22257.
 - **T. He**, J. Hu, Y. Song, J. Guo, and Z. Yi, "Multi-task learning for the segmentation of organs at risk with label dependence," Medical Image Analysis, vol. 61, p. 101666, 2020, doi: 10.1016/j.media.2020.101666.
