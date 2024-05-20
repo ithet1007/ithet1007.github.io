@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal Publication
+- Luo, H., **He, T.** & Yi, Z. A stable mapping of nmODE. Artif Intell Rev 57, 120 (2024). https://doi.org/10.1007/s10462-024-10749-8.
 - H. Niu, Z. Yi, and **T. He\***. "A bidirectional feedforward neural network architecture using the discretized neural memory ordinary differential equation." International Journal of Neural Systems, 2024, doi: 10.1142/S0129065724500151.
 - 邱韬，**何涛**，张强，肖雨璇，郭维华。基于人工智能技术的面相照片标志点自动定位的评价。口腔医学，2023年12月，第43卷，第12期。
 - **T. He**, G. Xu, L. Cui, W, Tang, J. Long, and J. Guo, "Anchor ball regression model for large-scale 3d skul landmark detection", Neurocomputing, vol 567, p.127051,2024.
