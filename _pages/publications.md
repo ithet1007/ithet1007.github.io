@@ -21,6 +21,8 @@ author_profile: true
 - **Tao He**, Hua Mao, Jixiang Guo, and Zhang Yi. "Cell tracking using deep neural networks with multi-task learning." Image and Vision Computing 60 (2017): 142-153. https://doi.org/10.1016/j.imavis.2016.11.010.
 
 ## Conference Publication
+- Quansong He, Xiaojun Yao, Jun Wu,  Zhang Yi, and **Tao He\***. "A Lightweight U-like Network Utilizing Neural Memory Ordinary Differential Equations for Slimming the Decoder." In the proceedings of International Joint Conference on Artificial Intelligence (IJCAI), pp. 821-829. 2024. https://doi.org/10.24963/ijcai.2024/91.
+- Kaishen Wang, Xun Xia, Jian Liu, Zhang Yi, and **Tao He\***. "Strengthening Layer Interaction via Dynamic Layer Attention." In the proceedings of International Joint Conference on Artificial Intelligence (IJCAI), pp. 5073-5081. 2024. https://doi.org/10.24963/ijcai.2024/561.
 - Quansong He, **Tao He\***, and Zhang Yi. "Medical Image Segmentation Using Discretized nmODE." In International Annual Conference on Complex Systems and Intelligent Science (CSIS-IAC), pp. 497-503. IEEE, 2023. https://doi.org/10.1109/CSIS-IAC60628.2023.10363958.
 - Yaqi Liu, Li Yang, Tingting Wang, Jianhong Wu, **Tao He**, and Zhang Yi. "An Optimized YOLO Model with Local Attention for Arthritis Lesion Detection on X-Ray Images." In 2023 International Annual Conference on Complex Systems and Intelligent Science (CSIS-IAC), pp. 489-496. IEEE, 2023. https://doi.org/10.1109CSIS-IAC60628.2023.10364047.
 - Qiang Zhang, Jixiang Guo, **Tao He**, Jie Yao, Wei Tang, and Zhang Yi. "A Novel Landmark Detection Method for Cephalometric Measurement." In IEEE International Conference on Medical Imaging Physics and Engineering (ICMIPE), pp. 1-10. IEEE, 2021. https://doi.org/10.1109/ICMIPE53131.2021.9698911.
