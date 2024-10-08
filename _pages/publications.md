@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal Publication
+- Chaowen Yan, Yong Wang, Lili Chang, Qiang Zhang, and **Tao He\***. "A novel masking model for Buddhist literature understanding by using Generative Adversarial Networks." Expert Systems with Applications 258 (2024): 125241. https://doi.org/10.1016/j.eswa.2024.125241.
 - Haiying Luo, **Tao He**, and Zhang Yi. "A stable mapping of nmODE." Artificial Intelligence Review 57.5 (2024): 120. https://doi.org/10.1007/s10462-024-10749-8.
 - Hao Niu, Zhang Yi, and **Tao He\***. "A Bidirectional Feedforward Neural Network Architecture Using the Discretized Neural Memory Ordinary Differential Equation." International Journal of Neural Systems (2024): 2450015-2450015. https://doi.org/10.1142/s0129065724500151.
 - 邱韬，**何涛**，张强，肖雨璇，郭维华。基于人工智能技术的面相照片标志点自动定位的评价。口腔医学，2023年12月，第43卷，第12期。
