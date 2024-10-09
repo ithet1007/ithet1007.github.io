@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal Publication
+- Zhihua Wang, Jingjun Gu, Wang Zhou, Quansong He, Tianli Zhao, Jialong Guo, Li Lu, **Tao He\***, and Jiajun Bu. "Neural Memory State Space Models for Medical Image Segmentation." International Journal of Neural Systems (2024): 2450068. https://doi.org/10.1142/S0129065724500680.
 - Chaowen Yan, Yong Wang, Lili Chang, Qiang Zhang, and **Tao He\***. "A novel masking model for Buddhist literature understanding by using Generative Adversarial Networks." Expert Systems with Applications 258 (2024): 125241. https://doi.org/10.1016/j.eswa.2024.125241.
 - Haiying Luo, **Tao He**, and Zhang Yi. "A stable mapping of nmODE." Artificial Intelligence Review 57.5 (2024): 120. https://doi.org/10.1007/s10462-024-10749-8.
 - Hao Niu, Zhang Yi, and **Tao He\***. "A Bidirectional Feedforward Neural Network Architecture Using the Discretized Neural Memory Ordinary Differential Equation." International Journal of Neural Systems (2024): 2450015-2450015. https://doi.org/10.1142/s0129065724500151.
