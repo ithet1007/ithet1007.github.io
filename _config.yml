@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com.au/citations?user=GqLzRsYAAAAJ"
-  email            :  "tao_he@scu&#46;edu&#46;cn"
+  email            :  <p>"tao_he@scu[dot]edu[dot]cn"</p>
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
