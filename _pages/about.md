@@ -10,7 +10,8 @@ redirect_from:
 * Master Supervisor
 * Department of Artificial Intelligence\\
 College of Computer Science \\
-Sichuan University, China
+Sichuan University, China\\
+Email: tao_he@scu[dot]edu[dot]cn
 * Basic Building 320\\
 Wangjiang Campus, Sichuan University\\
 No.24 South Section 1, Yihuan Road, Chengdu, China, 610065      
