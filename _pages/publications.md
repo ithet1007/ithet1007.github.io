@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal Publication
+- Yaqi Liu, Tingting Wang, Li Yang, Jianhong Wu, **Tao He\***, "Automatic joint lesion detection by enhancing local feature interaction." Computerized Medical Imaging and Graphics (2025): 102509. https://doi.org/10.1016/j.compmedimag.2025.102509.
 - Li Cui, Boyan Liu, Guikun Xu, Jixiang Guo, Wei Tang, **Tao He\***, "A Pseudo-3D Coarse-to-fine Architecture for 3D Medical Landmark Detection." Neurocomputing (2024): 128782. https://doi.org/10.1016/j.neucom.2024.128782.
 - Zhihua Wang, Jingjun Gu, Wang Zhou, Quansong He, Tianli Zhao, Jialong Guo, Li Lu, **Tao He\***, and Jiajun Bu. "Neural Memory State Space Models for Medical Image Segmentation." International Journal of Neural Systems (2024): 2450068. https://doi.org/10.1142/S0129065724500680.
 - Chaowen Yan, Yong Wang, Lili Chang, Qiang Zhang, and **Tao He\***. "A novel masking model for Buddhist literature understanding by using Generative Adversarial Networks." Expert Systems with Applications 258 (2024): 125241. https://doi.org/10.1016/j.eswa.2024.125241.
