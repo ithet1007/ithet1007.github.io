@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal Publication
+- Le Yu, Bo Gou, Xun Xia, Yujia Yang, Zhang Yi, Xiangde Min, **Tao He\***,
+"BUS-M2AE: Multi-scale masked autoencoder for breast ultrasound image analysis."
+Computers in Biology and Medicine 191 (2025): 110159. https://doi.org/10.1016/j.compbiomed.2025.110159.
 - Zhihua Wang, Yuxin He, Zhang Yi, **Tao He\***, Jiajun Bu, "Neural memory self-supervised state space models with learnable gates." IEEE Signal Processing Letters (2025). https://10.1109/LSP.2025.3541989.
 - Yaqi Liu, Tingting Wang, Li Yang, Jianhong Wu, **Tao He\***, "Automatic joint lesion detection by enhancing local feature interaction." Computerized Medical Imaging and Graphics (2025): 102509. https://doi.org/10.1016/j.compmedimag.2025.102509.
 - Li Cui, Boyan Liu, Guikun Xu, Jixiang Guo, Wei Tang, **Tao He\***, "A pseudo-3D coarse-to-fine architecture for 3D medical landmark detection." Neurocomputing 614 (2025): 128782. https://doi.org/10.1016/j.neucom.2024.128782.
