@@ -29,6 +29,7 @@ Computers in Biology and Medicine 191 (2025): 110159. https://doi.org/10.1016/j.
 - **Tao He**, Hua Mao, Jixiang Guo, and Zhang Yi. "Cell tracking using deep neural networks with multi-task learning." Image and Vision Computing 60 (2017): 142-153. https://doi.org/10.1016/j.imavis.2016.11.010.
 
 ## Conference Publication
+- Quansong He, Xiangde Min, Kaishen Wang, and **Tao He**. "FuseUNet: A multi-scale feature fusion method for u-like networks." In the proceedings of International Conference on Machine Learning (ICML), 2025.
 - Quansong He, Xiaojun Yao, Jun Wu,  Zhang Yi, and **Tao He**. "A lightweight U-like network utilizing neural memory ordinary differential equations for slimming the decoder." In the proceedings of International Joint Conference on Artificial Intelligence (IJCAI), pp. 821-829. 2024. https://doi.org/10.24963/ijcai.2024/91.
 - Kaishen Wang, Xun Xia, Jian Liu, Zhang Yi, and **Tao He**. "Strengthening Layer Interaction via Dynamic Layer Attention." In the proceedings of International Joint Conference on Artificial Intelligence (IJCAI), pp. 5073-5081. 2024. https://doi.org/10.24963/ijcai.2024/561.
 - Quansong He, **Tao He**, and Zhang Yi. "Medical Image Segmentation Using Discretized nmODE." In International Annual Conference on Complex Systems and Intelligent Science (CSIS-IAC), pp. 497-503. IEEE, 2023. https://doi.org/10.1109/CSIS-IAC60628.2023.10363958.
