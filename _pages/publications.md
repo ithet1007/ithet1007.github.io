@@ -27,6 +27,8 @@ Computers in Biology and Medicine 191 (2025): 110159. https://doi.org/10.1016/j.
 - **Tao He**, Jixiang Guo, Nan Chen, Xiuyuan Xu, Zihuai Wang, Kaiyu Fu, Lunxu Liu, and Zhang Yi. "Medimlp: using grad-cam to extract crucial variables for lung cancer postoperative complication prediction." IEEE journal of biomedical and health informatics 24, no. 6 (2019): 1762-1771. https://doi.org/10.1109/JBHI.2019.2949601.
 - **Tao He**, Hua Mao, and Zhang Yi. "Moving object recognition using multi-view three-dimensional convolutional neural networks." Neural computing and applications 28 (2017): 3827-3835. https://doi.org/10.1007/s00521-016-2277-9.
 - **Tao He**, Hua Mao, Jixiang Guo, and Zhang Yi. "Cell tracking using deep neural networks with multi-task learning." Image and Vision Computing 60 (2017): 142-153. https://doi.org/10.1016/j.imavis.2016.11.010.
+ 
+ ---
 
 ## Conference Publication
 - Quansong He, Xiangde Min, Kaishen Wang, and **Tao He**. "FuseUNet: A multi-scale feature fusion method for u-like networks." In the proceedings of International Conference on Machine Learning (ICML), 2025.
