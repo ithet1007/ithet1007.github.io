@@ -16,6 +16,7 @@ author_profile: true
 * Jianlong Xiong
 * Shanfeng Zhang
 * Hongling Wang
+* Heng Li
 
 ---
 ## Undergraduate
