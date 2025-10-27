@@ -23,7 +23,7 @@ author_profile: true
 * Tianqi Xu
 * Yiming Zhao
 * Yichen Yu
-* Pengfei Wu
+* Pengfei Ma
 * Yashi Zhu
 ---
 
