@@ -14,9 +14,13 @@ author_profile: true
 * Quansong He
 * Yue Cao
 * Jianlong Xiong
+* Shanfeng Zhang
+* Hongling Wang
 
 ---
 ## Undergraduate
+
+
 ### In progress
 * Xuran He
 * Xingran Yu
@@ -26,8 +30,7 @@ author_profile: true
 * Pengfei Ma
 * Yashi Zhu
 
-
----
+### 毕业去向
 
 |**毕业时间** | 2024|2025 |2025|
 |------------------|-------------------------------|----------------------|---------------------|
