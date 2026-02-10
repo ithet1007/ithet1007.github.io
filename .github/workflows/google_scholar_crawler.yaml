@@ -1,29 +1,64 @@
 name: Get Citation Data
 
 on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+  page_build: 
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch: # 增加手动启动按钮，方便调试
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3 # 升级到 v3，更稳定
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Check Secrets
+      run: |
+        if [ -z "${{ secrets.GOOGLE_SCHOLAR_ID }}" ]; then
+          echo "❌ 错误: 未在 Settings -> Secrets 中找到 GOOGLE_SCHOLAR_ID"
+          exit 1
+        else
+          echo "✅ GOOGLE_SCHOLAR_ID 已配置"
+        fi
+
     - name: Install Reqs
       run: |
-        sudo apt-get install python3-setuptools
-    - name: Run
-      run: |
+        pip3 install --upgrade pip
         cd ./google_scholar_crawler
         pip3 install -r requirements.txt
-        python3 main.py
-        cd ./results
-        git init
-        git config --local user.name "${GITHUB_ACTOR}"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git add *.json
-        git commit -m "Updated Citation Data"
-        git push "${remote_repo}" HEAD:google-scholar-stats --force
+
+    - name: Run Crawler with Timeout
+      timeout-minutes: 15 # 设置强制超时，防止无限期卡住消耗额度
+      run: |
+        cd ./google_scholar_crawler
+        echo "🚀 开始运行爬虫..."
+        # 使用 python -u (unbuffered) 强制实时打印日志，不再缓存
+        python3 -u main.py 
+        echo "✅ 爬虫运行结束"
       env: 
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+
+    - name: Deploy Results
+      if: success() # 只有爬虫成功才运行部署
+      run: |
+        cd ./google_scholar_crawler/results
+        echo "📂 准备推送数据到 google-scholar-stats 分支..."
+        git init
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # 检查是否有 json 文件生成
+        if [ -n "$(ls *.json 2>/dev/null)" ]; then
+          git add *.json
+          git commit -m "Updated Citation Data: $(date)"
+          export remote_repo="https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          git push "${remote_repo}" HEAD:google-scholar-stats --force
+          echo "🎉 数据已成功强制推送到 google-scholar-stats 分支"
+        else
+          echo "⚠️ 警告: 没有发现生成的 .json 文件，跳过推送。"
+        fi
