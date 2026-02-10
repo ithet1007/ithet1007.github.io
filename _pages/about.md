@@ -41,6 +41,8 @@ My research interest includes deep learning, medical imaging and intelligent med
 <span class='show_paper_citations' data='GqLzRsYAAAAJ:aqlVkmm33-oC'></span>
 
 - Zhihua Wang, Yuxin He, Zhang Yi, #**Tao He**, #Jiajun Bu, “Neural memory self-supervised state space models with learnable gates.” IEEE Signal Processing Letters (2025). [https://10.1109/LSP.2025.3541989](https://10.1109/LSP.2025.3541989).
+<span class='show_paper_citations' data='GqLzRsYAAAAJ:qxL8FJ1GzNcC'></span>
+
 - Yaqi Liu, Tingting Wang, Li Yang, Jianhong Wu, #**Tao He**, “Automatic joint lesion detection by enhancing local feature interaction.” Computerized Medical Imaging and Graphics (2025): 102509. [https://doi.org/10.1016/j.compmedimag.2025.102509](https://doi.org/10.1016/j.compmedimag.2025.102509).
 - Li Cui, Boyan Liu, Guikun Xu, Jixiang Guo, Wei Tang, #**Tao He**, “A pseudo-3D coarse-to-fine architecture for 3D medical landmark detection.” Neurocomputing 614 (2025): 128782. [https://doi.org/10.1016/j.neucom.2024.128782](https://doi.org/10.1016/j.neucom.2024.128782).
 - Zhihua Wang, Jingjun Gu, Wang Zhou, Quansong He, Tianli Zhao, Jialong Guo, Li Lu, #**Tao He**, and #Jiajun Bu. “Neural memory state space models for medical image segmentation.” International Journal of Neural Systems 35, no. 1 (2025): 2450068. [https://doi.org/10.1142/S0129065724500680](https://doi.org/10.1142/S0129065724500680).
