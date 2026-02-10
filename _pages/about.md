@@ -27,10 +27,7 @@ Wangjiang Campus, Sichuan University<br>
 No.24 South Section 1, Yihuan Road, Chengdu, China, 610065<br>
 Email: tao_he@scu.edu.cn<br>
 
-He Tao obtained his Ph.D. from the School of Computer Science, Sichuan University in 2021. Currently, he is engaged in research on artificial intelligence and medical imaging at the Intelligent Medical Center of Sichuan University. His primary research areas include unsupervised learning in medical imaging and keypoint detection in medical images. He is serving as an Associate Researcher at the School of Computer Science, Sichuan University. He has been awarded a National Natural Science Foundation of China (NSFC) grant for young researchers, as well as a Postdoctoral Fund and a special postdoctoral grant in Sichuan Province. He also serves as a reviewer for several leading journals in the field.
-
-My research interest includes deep learning, medical imaging and intelligent medical. I have published more than 30 papers with total  <a href='https://scholar.google.com.au/citations?user=GqLzRsYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+He Tao obtained his Ph.D. from the School of Computer Science, Sichuan University in 2021. Currently, he is engaged in research on artificial intelligence and medical imaging at the Intelligent Medical Center of Sichuan University, with his primary research areas including unsupervised learning in medical imaging and keypoint detection in medical images. He serves as an Associate Researcher at the School of Computer Science, Sichuan University, and has been awarded a National Natural Science Foundation of China (NSFC) grant for young researchers, as well as a Postdoctoral Fund and a special postdoctoral grant in Sichuan Province. Additionally, he acts as a reviewer for several leading journals in the field. His research interests encompass deep learning, medical imaging, and intelligent medicine, and he has published more than 30 papers with a total of <a href='https://scholar.google.com.au/citations?user=GqLzRsYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations.
 
 
 # 📝 Publications 
