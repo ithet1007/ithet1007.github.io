@@ -29,13 +29,13 @@ Email: tao_he@scu.edu.cn<br>
 
 He Tao obtained his Ph.D. from the School of Computer Science, Sichuan University in 2021. Currently, he is engaged in research on artificial intelligence and medical imaging at the Intelligent Medical Center of Sichuan University. His primary research areas include unsupervised learning in medical imaging and keypoint detection in medical images. He is serving as an Associate Researcher at the School of Computer Science, Sichuan University. He has been awarded a National Natural Science Foundation of China (NSFC) grant for young researchers, as well as a Postdoctoral Fund and a special postdoctoral grant in Sichuan Province. He also serves as a reviewer for several leading journals in the field.
 
-My research interest includes deep learning, medical imaging and intelligent medical. I have published more than 100 papers at the top international AI conferences with total (You can also use google scholar badge <a href='https://scholar.google.com.au/citations?user=GqLzRsYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes deep learning, medical imaging and intelligent medical. I have published more than 30 papers with total  <a href='https://scholar.google.com.au/citations?user=GqLzRsYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 
 # 📝 Publications 
 ## Journal Publication
-- Hailin Zhu, Xiang Li, **Tao He**, Boyan Liu, Wei Tang, and #Jixiang Guo, “Enhanced landmark detection in oral and maxillofacial CT and CBCT scans: a multi-stage global-local integration approach.” IEEE Transactions on Instrumentation and Measurement (2025). [https://10.1109/TIM.2025.3571083](https://10.1109/TIM.2025.3571083).<span class='show_paper_citations' data='Cn0F7mliEI7lxE3BakE:AHkA5jQAAAAAaYrHckHv4WYb9oWJ6rFqSymV9FA'></span>
+- Hailin Zhu, Xiang Li, **Tao He**, Boyan Liu, Wei Tang, and #Jixiang Guo, “Enhanced landmark detection in oral and maxillofacial CT and CBCT scans: a multi-stage global-local integration approach.” IEEE Transactions on Instrumentation and Measurement (2025). [https://10.1109/TIM.2025.3571083](https://10.1109/TIM.2025.3571083). 
 
 - Le Yu, Bo Gou, Xun Xia, Yujia Yang, Zhang Yi, Xiangde Min, #**Tao He**, “BUS-M2AE: Multi-scale masked autoencoder for breast ultrasound image analysis.” Computers in Biology and Medicine 191 (2025): 110159. [https://doi.org/10.1016/j.compbiomed.2025.110159](https://doi.org/10.1016/j.compbiomed.2025.110159).
 <span class='show_paper_citations' data='GqLzRsYAAAAJ:aqlVkmm33-oC'></span>
