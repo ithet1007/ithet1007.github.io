@@ -206,5 +206,5 @@ He Tao obtained his Ph.D. from the School of Computer Science, Sichuan Universit
 |----------|:---: |:---: |:---: |
 | **姓名**     | 刘雅琪 | 王凯珅 | 崔力 |
 | **毕业去向** | 香港中文大学（深圳）· 数据科学专业（硕士） | 美国马里兰大学 · 人工智能方向（直博） | 北京快手科技有限公司（工作） |
-| **学术成果** | SCI一作+1 (CMIG), EI一作+1 (CSIS-IAC) | IJCAI一作+1, NeurIPS Workshop一作+1, ICLR一作+1 | Neurocomputing一作+1|
+| **学术成果** | SCI一作+1 (CMIG)<br>EI一作+1 (CSIS-IAC) | IJCAI一作+1<br>NeurIPS Workshop一作+1<br>ICLR一作+1 | Neurocomputing一作+1|
 
