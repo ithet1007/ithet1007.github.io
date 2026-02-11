@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tao He Homepage"
+title                    : "Homepage | Tao He (何涛) | Sichuan University"
 description              : "Master Supervisor. Department of Artificial Intelligence. College of Computer Science. Sichuan University, China."
-repository               : "bgx666/bgx666.github.io"
+repository               : "ithet1007/ithet1007.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
