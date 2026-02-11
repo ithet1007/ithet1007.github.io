@@ -193,3 +193,5 @@ Tao He received his Ph.D. from the School of Computer Science at Sichuan Univers
 - 王凯珅, 2025, IJCAI 一作+1, NeurIPS Workshop 一作+1, ICLR 一作+1, 美国马里兰大学·人工智能方向（直博）
 - 崔力，2025，Neurocomputing 一作+1，北京快手科技有限公司（工作）
 
+
+Thanks to RayeRen at https://github.com/RayeRen/acad-homepage.github.io
