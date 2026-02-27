@@ -29,9 +29,10 @@ Email: tao_he@scu.edu.cn<br>
 Tao He received his Ph.D. from the School of Computer Science at Sichuan University in 2021, under the supervision of Professor Zhang Yi. He currently serves as an Associate Researcher at the School of Computer Science, Sichuan University, and conducts research at the university's Intelligent Medical Center. His primary research interests lie in artificial intelligence and medical imaging. Dr. He is the recipient of the National Natural Science Foundation of China (NSFC) Young Scientists Fund, as well as the China Postdoctoral Science Foundation grant and the Sichuan Provincial Special Postdoctoral Grant. Additionally, he acts as a reviewer for several leading journals and conferences in the field, and he has published papers with a total of google scholar citations <a href='https://scholar.google.com/citations?user=GqLzRsYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 ## Research Interest
-- Deep Learning
+- AI for Science
 - Medical Imaging
 - Ordinary Differential Equation
+- Continue Learning
 
 
 # 📝 Publications 
@@ -189,9 +190,9 @@ Tao He received his Ph.D. from the School of Computer Science at Sichuan Univers
 
 ## Graduation Outcomes
 
-- 刘雅琪, 2024, SCI 一作+1 (CMIG),EI 一作+1 (CSIS-IAC), 香港中文大学（深圳）·数据科学专业（硕士）
-- 王凯珅, 2025, IJCAI 一作+1, NeurIPS Workshop 一作+1, ICLR 一作+1, 美国马里兰大学·人工智能方向（直博）
-- 崔力，2025，Neurocomputing 一作+1，北京快手科技有限公司（工作）
+- 刘雅琪, 2024届本科生, SCI 一作+1 (CMIG),EI 一作+1 (CSIS-IAC), 香港中文大学（深圳）·数据科学专业（硕士）
+- 王凯珅, 2025届本科生, IJCAI 一作+1, NeurIPS Workshop 一作+1, ICLR 一作+1, 美国马里兰大学·人工智能方向（直博）
+- 崔力，2025届本科生，Neurocomputing 一作+1，北京快手科技有限公司（工作）
 
 
 Thanks to RayeRen at https://github.com/RayeRen/acad-homepage.github.io
