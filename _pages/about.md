@@ -101,6 +101,8 @@ Tao He received his Ph.D. from the School of Computer Science at Sichuan Univers
 <span class='show_paper_citations' data='GqLzRsYAAAAJ:qjMakFHDy7sC'></span>
 
 ## Conference Publication
+- Tianqi Xu, Yashi Zhu, Quansong He, Yue Cao, Kaishen Wang, Zhang Yi, and **Tao He**\*. CNM-UNet: Continuous ordinary differential equations for medical image segmentation. In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 40, no. 14, pp. 11406-11414. 2026.
+
 - Le Yu, Jun Wu, Bo Gou, Xiangde Min, Lei Zhang, Zhang Yi, **Tao He**\*. MobileODE: an extra lightweight network. In the proceedings of The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.
 <span class='show_paper_citations' data='GqLzRsYAAAAJ:9ZlFYXVOiuMC'></span>
   
