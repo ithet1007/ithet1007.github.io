@@ -106,7 +106,7 @@ Tao He received his Ph.D. from the School of Computer Science at Sichuan Univers
 - Le Yu, Jun Wu, Bo Gou, Xiangde Min, Lei Zhang, Zhang Yi, **Tao He**\*. MobileODE: an extra lightweight network. In the proceedings of The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.
 <span class='show_paper_citations' data='GqLzRsYAAAAJ:9ZlFYXVOiuMC'></span>
   
-- Quansong He\#, Xiangde Min\#, Kaishen Wang, and **Tao He**\*. FuseUNet: A multi-scale feature fusion method for u-like networks. In the proceedings of International Conference on Machine Learning (ICML), 2025.
+- Quansong He\#, Xiangde Min\#, Kaishen Wang, and **Tao He**\*. FuseUNet: A multi-scale feature fusion method for u-like networks. In the proceedings of International Conference on Machine Learning (ICML), pp. 22669-22685. 2025.
 <span class='show_paper_citations' data='GqLzRsYAAAAJ:Wp0gIr-vW9MC'></span>
   
 - Quansong He, Xiaojun Yao, Jun Wu, Zhang Yi, and **Tao He**\*. A lightweight U-like network utilizing neural memory ordinary differential equations for slimming the decoder. In the proceedings of International Joint Conference on Artificial Intelligence (IJCAI), pp. 821-829. 2024. [https://doi.org/10.24963/ijcai.2024/91](https://doi.org/10.24963/ijcai.2024/91).
