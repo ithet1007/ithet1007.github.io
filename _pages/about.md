@@ -37,6 +37,7 @@ Tao He received his Ph.D. from the School of Computer Science at Sichuan Univers
 
 # 📝 Publications 
 ## Journal Publication
+- Jun Zhou#,Pilei Si#, Yan Zhang#, Jianqiong Song#, **Tao He**#, Qin Liu, Shaoqi Chen, Mengjie Tu, Han Wang Qiang, Guo, and others. A non-invasive end-to-end intelligent assistance system for breast ultrasound. Nature Communications. 2026.
 - Yue Cao, Quansong He, Kaishen Wang, Jianlong Xiong, Zhang Yi, **Tao He**\*, Enhancing feature fusion of U-like networks with dynamic skip connections. Medical Image Analysis 110 (2026): 104010. [https://doi.org/10.1016/j.media.2026.104010](https://doi.org/10.1016/j.media.2026.104010)
 
 - Hailin Zhu, Xiang Li, **Tao He**, Boyan Liu, Wei Tang, and Jixiang Guo\*, Enhanced landmark detection in oral and maxillofacial CT and CBCT scans: a multi-stage global-local integration approach. IEEE Transactions on Instrumentation and Measurement (2025). [https://10.1109/TIM.2025.3571083](https://10.1109/TIM.2025.3571083).
