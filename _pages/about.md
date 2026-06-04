@@ -19,19 +19,19 @@ redirect_from:
 
 - Associate Researcher
 - Master Supervisor
-- College of Computer Science, Sichuan University, China<br>
+- School of Artificial Intelligence, Sichuan University, China<br>
 
 - Basic Building 320<br>
 Wangjiang Campus, Sichuan University<br>
 No.24 South Section 1, Yihuan Road, Chengdu, China, 610065<br>
 Email: tao_he@scu.edu.cn<br>
 
-Tao He received his Ph.D. from the School of Computer Science at Sichuan University in 2021, under the supervision of Professor Zhang Yi. He currently serves as an Associate Researcher at the School of Computer Science, Sichuan University, and conducts research at the university's Intelligent Medical Center. His primary research interests lie in artificial intelligence and medical imaging. Dr. He is the recipient of the National Natural Science Foundation of China (NSFC) Young Scientists Fund, as well as the China Postdoctoral Science Foundation grant and the Sichuan Provincial Special Postdoctoral Grant. Additionally, he acts as a reviewer for several leading journals and conferences in the field, and he has published papers with a total of google scholar citations <a href='https://scholar.google.com/citations?user=GqLzRsYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+Tao He received his Ph.D. from the College of Computer Science at Sichuan University in 2021, under the supervision of Professor Zhang Yi. He currently serves as an Associate Researcher at the School of Artificial Intelligence, Sichuan University, and conducts research at the university's Intelligent Medical Center. His primary research interests lie in artificial intelligence and medical imaging. Dr. He is the recipient of the National Natural Science Foundation of China (NSFC) Young Scientists Fund, as well as the China Postdoctoral Science Foundation grant and the Sichuan Provincial Special Postdoctoral Grant. Additionally, he acts as a reviewer for several leading journals and conferences in the field, and he has published papers with a total of google scholar citations <a href='https://scholar.google.com/citations?user=GqLzRsYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 ## Research Interest
 - AI for Science
 - Test-Time Adaptation
-- Ordinary Differential Equation
+- Neural Ordinary Differential Equation
 - Continue Learning
 
 
