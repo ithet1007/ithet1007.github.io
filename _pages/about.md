@@ -195,8 +195,8 @@ Tao He received his Ph.D. from the College of Computer Science at Sichuan Univer
 ## Graduates
 - 何全松，2026届硕士研究生，IJCAI 一作+1，ICML 一作+1，国家奖学金+2，港仔机器人智能科技（深圳）有限公司（工作）
 - 余乐，2026届硕士研究生，SCI 一作+1（CIBM），NeurIPS 一作+1，港仔机器人智能科技（深圳）有限公司（工作）
-- 刘雅琪, 2024届本科生, SCI 一作+1 (CMIG),EI 一作+1 (CSIS-IAC), 香港中文大学（深圳）·数据科学专业（硕士）
-- 王凯珅, 2025届本科生, IJCAI 一作+1, NeurIPS Workshop 一作+1, ICLR 一作+1, 美国马里兰大学·人工智能方向（直博）
+- 刘雅琪，2024届本科生，SCI 一作+1 (CMIG)，EI 一作+1 (CSIS-IAC)，香港中文大学（深圳）·数据科学专业（硕士）
+- 王凯珅，2025届本科生，IJCAI 一作+1，NeurIPS Workshop 一作+1，ICLR 一作+1，美国马里兰大学·人工智能方向（直博）
 - 崔力，2025届本科生，Neurocomputing 一作+1，北京快手科技有限公司（工作）
 
 
