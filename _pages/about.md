@@ -187,7 +187,7 @@ Tao He received his Ph.D. from the College of Computer Science at Sichuan Univer
 # 👨‍🏫 Supervision
 
 ## Master Students
-- 余乐，何全松，曹越，熊健龙，张善丰，王泓棱，厉寒冰，黄少洋
+- 曹越，熊健龙，张善丰，王泓棱，厉寒冰，黄少洋，国成果
 
 ## Undergraduate Students
 - 何旭冉，许天齐，赵一鸣，于宜辰，马鹏飞，朱雅诗
