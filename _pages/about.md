@@ -37,7 +37,7 @@ Tao He received his Ph.D. from the College of Computer Science at Sichuan Univer
 
 # 📝 Publications 
 ## Journal Publication
-- Jun Zhou#,Pilei Si#, Yan Zhang#, Jianqiong Song#, **Tao He**#, Qin Liu, Shaoqi Chen, Mengjie Tu, Han Wang Qiang, Guo, and others. A non-invasive end-to-end intelligent assistance system for breast ultrasound. Nature Communications. 2026.
+- Jun Zhou#,Pilei Si#, Yan Zhang#, Jianqiong Song#, **Tao He**\#, Qin Liu, Shaoqi Chen, Mengjie Tu, Han Wang Qiang, Guo, and others. A non-invasive end-to-end intelligent assistance system for breast ultrasound. Nature Communications. 2026.
 - Yue Cao, Quansong He, Kaishen Wang, Jianlong Xiong, Zhang Yi, **Tao He**\*, Enhancing feature fusion of U-like networks with dynamic skip connections. Medical Image Analysis 110 (2026): 104010. [https://doi.org/10.1016/j.media.2026.104010](https://doi.org/10.1016/j.media.2026.104010)
 
 - Hailin Zhu, Xiang Li, **Tao He**, Boyan Liu, Wei Tang, and Jixiang Guo\*, Enhanced landmark detection in oral and maxillofacial CT and CBCT scans: a multi-stage global-local integration approach. IEEE Transactions on Instrumentation and Measurement (2025). [https://10.1109/TIM.2025.3571083](https://10.1109/TIM.2025.3571083).
@@ -192,8 +192,9 @@ Tao He received his Ph.D. from the College of Computer Science at Sichuan Univer
 ## Undergraduate Students
 - 何旭冉，许天齐，赵一鸣，于宜辰，马鹏飞，朱雅诗
 
-## Graduation Outcomes
-
+## Graduates
+- 何全松，2026届硕士研究生，IJCAI 一作+1，ICML 一作+1，国家奖学金+2，港仔机器人智能科技（深圳）有限公司（工作）
+- 余乐，2026届硕士研究生，SCI 一作+1（CIBM），NeurIPS 一作+1，港仔机器人智能科技（深圳）有限公司（工作）
 - 刘雅琪, 2024届本科生, SCI 一作+1 (CMIG),EI 一作+1 (CSIS-IAC), 香港中文大学（深圳）·数据科学专业（硕士）
 - 王凯珅, 2025届本科生, IJCAI 一作+1, NeurIPS Workshop 一作+1, ICLR 一作+1, 美国马里兰大学·人工智能方向（直博）
 - 崔力，2025届本科生，Neurocomputing 一作+1，北京快手科技有限公司（工作）
