@@ -41,13 +41,13 @@ Tao He received his Ph.D. from the College of Computer Science at Sichuan Univer
 - Jun Zhou#,Pilei Si#, Yan Zhang#, Jianqiong Song#, **Tao He**\#, Qin Liu, Shaoqi Chen, Mengjie Tu, Han Wang Qiang, Guo, and others. A non-invasive end-to-end intelligent assistance system for breast ultrasound. Nature Communications. 2026.
 - Yue Cao, Quansong He, Kaishen Wang, Jianlong Xiong, Zhang Yi, **Tao He**\*, Enhancing feature fusion of U-like networks with dynamic skip connections. Medical Image Analysis 110 (2026): 104010. [https://doi.org/10.1016/j.media.2026.104010](https://doi.org/10.1016/j.media.2026.104010)
 
-- Hailin Zhu, Xiang Li, **Tao He**, Boyan Liu, Wei Tang, and Jixiang Guo\*, Enhanced landmark detection in oral and maxillofacial CT and CBCT scans: a multi-stage global-local integration approach. IEEE Transactions on Instrumentation and Measurement (2025). [https://10.1109/TIM.2025.3571083](https://10.1109/TIM.2025.3571083).
+- Hailin Zhu, Xiang Li, **Tao He**, Boyan Liu, Wei Tang, and Jixiang Guo\*, Enhanced landmark detection in oral and maxillofacial CT and CBCT scans: a multi-stage global-local integration approach. IEEE Transactions on Instrumentation and Measurement 74 (2025):1-17. [https://10.1109/TIM.2025.3571083](https://10.1109/TIM.2025.3571083).
 <span class='show_paper_citations' data='GqLzRsYAAAAJ:4DMP91E08xMC'></span>
 
 - Le Yu, Bo Gou, Xun Xia, Yujia Yang, Zhang Yi, Xiangde Min, **Tao He**\*, BUS-M2AE: Multi-scale masked autoencoder for breast ultrasound image analysis. Computers in Biology and Medicine 191 (2025): 110159. [https://doi.org/10.1016/j.compbiomed.2025.110159](https://doi.org/10.1016/j.compbiomed.2025.110159).
 <span class='show_paper_citations' data='GqLzRsYAAAAJ:aqlVkmm33-oC'></span>
 
-- Zhihua Wang, Yuxin He, Zhang Yi, **Tao He**\*, Jiajun Bu\*, Neural memory self-supervised state space models with learnable gates. IEEE Signal Processing Letters (2025). [https://10.1109/LSP.2025.3541989](https://10.1109/LSP.2025.3541989).
+- Zhihua Wang, Yuxin He, Zhang Yi, **Tao He**\*, Jiajun Bu\*, Neural memory self-supervised state space models with learnable gates. IEEE Signal Processing Letters 32 (2025):926-930. [https://10.1109/LSP.2025.3541989](https://10.1109/LSP.2025.3541989).
 <span class='show_paper_citations' data='GqLzRsYAAAAJ:qxL8FJ1GzNcC'></span>
 
 - Yaqi Liu, Tingting Wang, Li Yang, Jianhong Wu, **Tao He**\*, Automatic joint lesion detection by enhancing local feature interaction. Computerized Medical Imaging and Graphics (2025): 102509. [https://doi.org/10.1016/j.compmedimag.2025.102509](https://doi.org/10.1016/j.compmedimag.2025.102509).<span class='show_paper_citations' data='GqLzRsYAAAAJ:M3ejUd6NZC8C'></span>
@@ -105,7 +105,7 @@ Tao He received his Ph.D. from the College of Computer Science at Sichuan Univer
 ## Conference Publication
 - Tianqi Xu, Yashi Zhu, Quansong He, Yue Cao, Kaishen Wang, Zhang Yi, and **Tao He**\*. CNM-UNet: Continuous ordinary differential equations for medical image segmentation. In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 40, no. 14, pp. 11406-11414. 2026.
 
-- Le Yu, Jun Wu, Bo Gou, Xiangde Min, Lei Zhang, Zhang Yi, **Tao He**\*. MobileODE: an extra lightweight network. In the proceedings of The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.
+- Le Yu, Jun Wu, Bo Gou, Xiangde Min, Lei Zhang, Zhang Yi, **Tao He**\*. MobileODE: an extra lightweight network. In the proceedings of The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 38 (2026): 120931-120956.
 <span class='show_paper_citations' data='GqLzRsYAAAAJ:9ZlFYXVOiuMC'></span>
   
 - Quansong He\#, Xiangde Min\#, Kaishen Wang, and **Tao He**\*. FuseUNet: A multi-scale feature fusion method for u-like networks. In the proceedings of International Conference on Machine Learning (ICML), pp. 22669-22685. 2025.
@@ -133,23 +133,6 @@ Tao He received his Ph.D. from the College of Computer Science at Sichuan Univer
 <span class='show_paper_citations' data='GqLzRsYAAAAJ:eQOLeE2rZwMC'></span>
   
 
-# 🔬 Grants
-## Host
-
-| Fund number | Project name |
-| :---------- | :----------- |
-| 62206189    | National Natural Science Foundation of China |
-| 20226205    | 2022 Dazhou City School Cooperation Special project |
-| TB2022033   | Special Fund for the Postdoctoral Research of Sichuan Province |
-| 2023M732427 | Special Fund for the China Postdoctoral Science Foundation |
-
-## Participate
-
-| Fund number | Project name |
-| :---------- | :----------- |
-| 62172289    | National Natural Science Foundation of China |
-| 2018AAA0100201 | Major Project on Artificial Intelligence, Ministry of Science and Technology of the People’s Republic of China |
-
 # 📚 Teaching
 
 - **计算思维与智能方法**  
@@ -164,6 +147,8 @@ Tao He received his Ph.D. from the College of Computer Science at Sichuan Univer
 - **Introduction to AI**  
   面向留学生 | 选修课
 
+# 🏅荣誉
+- 2026年四川省科技进步一等奖
 
 # 📋 Academic Services
 
