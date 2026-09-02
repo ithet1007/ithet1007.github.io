@@ -38,7 +38,8 @@ Tao He received his Ph.D. from the College of Computer Science at Sichuan Univer
 
 # 📝 Publications 
 ## Journal Publication
-- Pengfei Ma, Le Yu, Lei Zhang, Zhang Yi, **Tao He**\*. GhostODE: A lightweight network optimized by ordinary differential equation. Neurocomputing 704 (2026): 134898. [[https://doi.org/10.1016/j.media.2026.104010](https://doi.org/10.1016/j.media.2026.104010)
+- Chaowen Yan, Kaishen Wang, Yong Wang, Jianlong Xiong, **Tao He**\*. Enhancing Oracle Bone Inscription Recognition via Multi-Scale Layer Attention. Information Science 759 (2026): 124083. [https://doi.org/10.1016/j.ins.2026.124083](https://doi.org/10.1016/j.ins.2026.124083)
+- Pengfei Ma, Le Yu, Lei Zhang, Zhang Yi, **Tao He**\*. GhostODE: A lightweight network optimized by ordinary differential equation. Neurocomputing 704 (2026): 134898. [https://doi.org/10.1016/j.media.2026.104010](https://doi.org/10.1016/j.media.2026.104010)
 - Jun Zhou#,Pilei Si#, Yan Zhang#, Jianqiong Song#, **Tao He**\#, Qin Liu, Shaoqi Chen, Mengjie Tu, Han Wang Qiang, Guo, and others. A non-invasive end-to-end intelligent assistance system for breast ultrasound. Nature Communications. 2026.
 - Yue Cao, Quansong He, Kaishen Wang, Jianlong Xiong, Zhang Yi, **Tao He**\*, Enhancing feature fusion of U-like networks with dynamic skip connections. Medical Image Analysis 110 (2026): 104010. [https://doi.org/10.1016/j.media.2026.104010](https://doi.org/10.1016/j.media.2026.104010)
 
