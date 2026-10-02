@@ -15,6 +15,89 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<!-- Scoped page formatting for Jekyll / kramdown. -->
+<style>
+.academic-about {
+  line-height: 1.75;
+}
+.academic-about p,
+.academic-about .publications li {
+  text-align: justify;
+  text-align-last: left;
+}
+.academic-about a {
+  overflow-wrap: anywhere;
+}
+.academic-about img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+.academic-about h2 {
+  margin-top: 2em;
+  margin-bottom: 0.75em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #e5e7eb;
+  line-height: 1.35;
+}
+.academic-about h3 {
+  margin-top: 1.5em;
+  margin-bottom: 0.6em;
+  line-height: 1.4;
+}
+.academic-about ul {
+  padding-left: 1.4em;
+}
+.academic-about li {
+  margin-bottom: 0.45em;
+}
+.academic-about .publications li {
+  margin-bottom: 1em;
+}
+.academic-about .publications li p {
+  margin: 0;
+}
+.academic-about .show_paper_citations {
+  display: inline-block;
+  margin-top: 0.2em;
+}
+.academic-about .project-table {
+  width: 100%;
+  overflow-x: auto;
+  margin: 1em 0;
+}
+.academic-about .project-table table {
+  display: table;
+  width: 100%;
+  min-width: 680px;
+  border-collapse: collapse;
+  margin: 0;
+  font-size: 0.9em;
+}
+.academic-about .project-table th,
+.academic-about .project-table td {
+  padding: 0.65em 0.8em;
+  border: 1px solid #e5e7eb;
+  text-align: left;
+  vertical-align: top;
+}
+.academic-about .project-table th {
+  background: #f3f4f6;
+  font-weight: 600;
+}
+.academic-about .project-table td:first-child,
+.academic-about .project-table td:last-child {
+  white-space: nowrap;
+}
+@media (max-width: 640px) {
+  .academic-about p,
+  .academic-about .publications li {
+    text-align: left;
+  }
+}
+</style>
+
+<div class="academic-about" markdown="1">
+
 <span class='anchor' id='about-me'></span>
 
 - Associate Researcher
@@ -22,119 +105,130 @@ redirect_from:
 - School of Artificial Intelligence, Sichuan University, China<br>
 
 - Basic Building 320<br>
-Wangjiang Campus, Sichuan University<br>
-No.24 South Section 1, Yihuan Road, Chengdu, China, 610065<br>
-Email: tao_he@scu.edu.cn<br>
+  Wangjiang Campus, Sichuan University<br>
+  No.24 South Section 1, Yihuan Road, Chengdu, China, 610065<br>
+  Email: tao_he@scu.edu.cn<br>
 - 招生方向：招收2027级硕士研究生，尚有名额。对人工智能、医学图像分析、AI4Med、智能医疗器械等方向感兴趣可邮件联系<br>
 
 Tao He received his Ph.D. from the College of Computer Science at Sichuan University in 2021, under the supervision of Professor [Zhang Yi](https://machineilab.org/users/zhangyi/index.html). He currently serves as an Associate Researcher at the [School of Artificial Intelligence](https://ai.scu.edu.cn/info/1238/1152.htm), Sichuan University, and conducts research at the university's Intelligent Medical Center. His primary research interests lie in artificial intelligence and medical imaging. Dr. He is the recipient of the National Natural Science Foundation of China (NSFC) Young Scientists Fund, as well as the China Postdoctoral Science Foundation grant and the Sichuan Provincial Special Postdoctoral Grant. Additionally, he acts as a reviewer for several leading journals and conferences in the field, and he has published papers with a total of google scholar citations <a href='https://scholar.google.com/citations?user=GqLzRsYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 ## Research Interest
+
 - AI for Science
 - Test-Time Adaptation
 - Neural Ordinary Differential Equation
 - Continue Learning
 
+## 📝 Publications
 
-# 📝 Publications 
-## Journal Publication
+<div class="publications" lang="en" markdown="1">
+
+### Journal Publication
+
 - Chaowen Yan, Kaishen Wang, Yong Wang, Jianlong Xiong, **Tao He**\*. Enhancing Oracle Bone Inscription Recognition via Multi-Scale Layer Attention. Information Science 759 (2026): 124083. [https://doi.org/10.1016/j.ins.2026.124083](https://doi.org/10.1016/j.ins.2026.124083)
+
 - Pengfei Ma, Le Yu, Lei Zhang, Zhang Yi, **Tao He**\*. GhostODE: A lightweight network optimized by ordinary differential equation. Neurocomputing 704 (2026): 134898. [https://doi.org/10.1016/j.media.2026.104010](https://doi.org/10.1016/j.media.2026.104010)
+
 - Jun Zhou#,Pilei Si#, Yan Zhang#, Jianqiong Song#, **Tao He**\#, Qin Liu, Shaoqi Chen, Mengjie Tu, Han Wang Qiang, Guo, and others. A non-invasive end-to-end intelligent assistance system for breast ultrasound. Nature Communications. 2026.
+
 - Yue Cao, Quansong He, Kaishen Wang, Jianlong Xiong, Zhang Yi, **Tao He**\*, Enhancing feature fusion of U-like networks with dynamic skip connections. Medical Image Analysis 110 (2026): 104010. [https://doi.org/10.1016/j.media.2026.104010](https://doi.org/10.1016/j.media.2026.104010)
 
 - Hailin Zhu, Xiang Li, **Tao He**, Boyan Liu, Wei Tang, and Jixiang Guo\*, Enhanced landmark detection in oral and maxillofacial CT and CBCT scans: a multi-stage global-local integration approach. IEEE Transactions on Instrumentation and Measurement 74 (2025):1-17. [https://10.1109/TIM.2025.3571083](https://10.1109/TIM.2025.3571083).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:4DMP91E08xMC'></span>
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:4DMP91E08xMC'></span>
 
 - Le Yu, Bo Gou, Xun Xia, Yujia Yang, Zhang Yi, Xiangde Min, **Tao He**\*, BUS-M2AE: Multi-scale masked autoencoder for breast ultrasound image analysis. Computers in Biology and Medicine 191 (2025): 110159. [https://doi.org/10.1016/j.compbiomed.2025.110159](https://doi.org/10.1016/j.compbiomed.2025.110159).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:aqlVkmm33-oC'></span>
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:aqlVkmm33-oC'></span>
 
 - Zhihua Wang, Yuxin He, Zhang Yi, **Tao He**\*, Jiajun Bu\*, Neural memory self-supervised state space models with learnable gates. IEEE Signal Processing Letters 32 (2025):926-930. [https://10.1109/LSP.2025.3541989](https://10.1109/LSP.2025.3541989).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:qxL8FJ1GzNcC'></span>
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:qxL8FJ1GzNcC'></span>
 
 - Yaqi Liu, Tingting Wang, Li Yang, Jianhong Wu, **Tao He**\*, Automatic joint lesion detection by enhancing local feature interaction. Computerized Medical Imaging and Graphics (2025): 102509. [https://doi.org/10.1016/j.compmedimag.2025.102509](https://doi.org/10.1016/j.compmedimag.2025.102509).<span class='show_paper_citations' data='GqLzRsYAAAAJ:M3ejUd6NZC8C'></span>
 
 - Li Cui, Boyan Liu, Guikun Xu, Jixiang Guo, Wei Tang, **Tao He**\*, A pseudo-3D coarse-to-fine architecture for 3D medical landmark detection. Neurocomputing 614 (2025): 128782. [https://doi.org/10.1016/j.neucom.2024.128782](https://doi.org/10.1016/j.neucom.2024.128782).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:5nxA0vEk-isC'></span>
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:5nxA0vEk-isC'></span>
 
 - Zhihua Wang, Jingjun Gu, Wang Zhou, Quansong He, Tianli Zhao, Jialong Guo, Li Lu, **Tao He**\*, and Jiajun Bu\*. Neural memory state space models for medical image segmentation. International Journal of Neural Systems 35, no. 1 (2025): 2450068. [https://doi.org/10.1142/S0129065724500680](https://doi.org/10.1142/S0129065724500680).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:YOwf2qJgpHMC'></span>
- 
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:YOwf2qJgpHMC'></span>
+
 - Chaowen Yan, Yong Wang, Lili Chang, Qiang Zhang, and **Tao He**\*. A novel masking model for Buddhist literature understanding by using Generative Adversarial Networks. Expert Systems with Applications 258 (2024): 125241. [https://doi.org/10.1016/j.eswa.2024.125241](https://doi.org/10.1016/j.eswa.2024.125241).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:kNdYIx-mwKoC'></span>
-  
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:kNdYIx-mwKoC'></span>
+
 - Haiying Luo, **Tao He**, and Zhang Yi\*. A stable mapping of nmODE. Artificial Intelligence Review 57.5 (2024): 120. [https://doi.org/10.1007/s10462-024-10749-8](https://doi.org/10.1007/s10462-024-10749-8).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:KlAtU1dfN6UC'></span>
-  
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:KlAtU1dfN6UC'></span>
+
 - Hao Niu, Zhang Yi, and **Tao He**\*. A bidirectional feedforward neural network architecture using the discretized neural memory ordinary differential equation. International Journal of Neural Systems 34, no. 04 (2024): 2450015. [https://doi.org/10.1142/s0129065724500151](https://doi.org/10.1142/s0129065724500151).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:Zph67rFs4hoC'></span>
-  
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:Zph67rFs4hoC'></span>
+
 - 邱韬，**何涛**，张强，肖雨璇，郭维华\*。基于人工智能技术的面相照片标志点自动定位的评价。口腔医学，2023年12月，第43卷，第12期。
 
 - **Tao He**, Guikun Xu, Li Cui, Wei Tang, Jie Long, and Jixiang Guo\*. Anchor ball regression model for large-scale 3D skull landmark detection. Neurocomputing 567 (2024): 127051. [https://doi.org/10.1016/j.neucom.2023.127051](https://doi.org/10.1016/j.neucom.2023.127051).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:_FxGoFyzp5QC'></span>
-  
-- Dong, Wenxuan, Meng You, **Tao He**, Jiaqi Dai, Yueting Tang, Yuchao Shi, and Jixiang Guo\*. An automatic methodology for full dentition maturity staging from OPG images using deep learning. Applied Intelligence 53, no. 23 (2023): 29514-29536. [https://doi.org/10.1007/s10489-023-05096-0](https://doi.org/10.1007/s10489-023-05096-0).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:hqOjcs7Dif8C'></span>
-  
-- **Tao He**, Jixiang Guo, Wei Tang, Wei Zeng, Ping He, Fanxin Zeng, and Zhang Yi\*. Cascade-refine model for cephalometric landmark detection in high-resolution orthodontic images. Knowledge-Based Systems 265 (2023): 110332. [https://doi.org/10.1016/j.knosys.2023.110332](https://doi.org/10.1016/j.knosys.2023.110332).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:9yKSN-GCB0IC'></span>
-  
-- Yao, Jie, Wei Zeng, **Tao He**, Shanluo Zhou, Yi Zhang, Jixiang Guo, and Wei Tang\*. Automatic localization of cephalometric landmarks based on convolutional neural network. American Journal of Orthodontics and Dentofacial Orthopedics 161, no. 3 (2022): e250-e259. [https://doi.org/10.1016/j.ajodo.2021.09.012](https://doi.org/10.1016/j.ajodo.2021.09.012).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:2osOgNQ5qMEC'></span>
-  
-- **Tao He**, Hua Mao, and Zhang Yi\*. Subtraction gates: Another way to learn long-term dependencies in recurrent neural networks. IEEE Transactions on Neural Networks and Learning Systems 33, no. 4 (2022): 1740-1751. [https://doi.org/10.1109/TNNLS.2020.3043752](https://doi.org/10.1109/TNNLS.2020.3043752).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:IjCSPb-OGe4C'></span>
-  
-- **Tao He**, Jie Yao, Weidong Tian, Zhang Yi, Wei Tang, and Jixiang Guo\*. Cephalometric landmark detection by considering translational invariance in the two-stage framework. Neurocomputing 464 (2021): 15-26. [https://doi.org/10.1016/j.neucom.2021.08.042](https://doi.org/10.1016/j.neucom.2021.08.042).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:UeHWp8X0CEIC'></span>
-  
-- **Tao He**, Lei Zhang, Jixiang Guo, and Zhang Yi\*. Multilabel classification by exploiting data‐driven pair‐wise label dependence. International Journal of Intelligent Systems 35, no. 9 (2020): 1375-1396. [https://doi.org/10.1002/int.22257](https://doi.org/10.1002/int.22257).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:W7OEmFMy1HYC'></span>
-  
-- **Tao He**, Junjie Hu, Ying Song, Jixiang Guo, and Zhang Yi\*. Multi-task learning for the segmentation of organs at risk with label dependence. Medical Image Analysis 61 (2020): 101666. [https://doi.org/10.1016/j.media.2020.101666](https://doi.org/10.1016/j.media.2020.101666).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:u-x6o8ySG0sC'></span>
-  
-- **Tao He**, Jixiang Guo, Nan Chen, Xiuyuan Xu, Zihuai Wang, Kaiyu Fu, Lunxu Liu, and Zhang Yi\*. Medimlp: using grad-cam to extract crucial variables for lung cancer postoperative complication prediction. IEEE journal of biomedical and health informatics 24, no. 6 (2019): 1762-1771. [https://doi.org/10.1109/JBHI.2019.2949601](https://doi.org/10.1109/JBHI.2019.2949601).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:u5HHmVD_uO8C'></span>
-  
-- **Tao He**, Hua Mao, and Zhang Yi\*. Moving object recognition using multi-view three-dimensional convolutional neural networks. Neural computing and applications 28 (2017): 3827-3835. [https://doi.org/10.1007/s00521-016-2277-9](https://doi.org/10.1007/s00521-016-2277-9).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:zYLM7Y9cAGgC'></span>
-  
-- **Tao He**, Hua Mao, Jixiang Guo, and Zhang Yi\*. Cell tracking using deep neural networks with multi-task learning. Image and Vision Computing 60 (2017): 142-153. [https://doi.org/10.1016/j.imavis.2016.11.010](https://doi.org/10.1016/j.imavis.2016.11.010).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:qjMakFHDy7sC'></span>
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:_FxGoFyzp5QC'></span>
 
-## Conference Publication
+- Dong, Wenxuan, Meng You, **Tao He**, Jiaqi Dai, Yueting Tang, Yuchao Shi, and Jixiang Guo\*. An automatic methodology for full dentition maturity staging from OPG images using deep learning. Applied Intelligence 53, no. 23 (2023): 29514-29536. [https://doi.org/10.1007/s10489-023-05096-0](https://doi.org/10.1007/s10489-023-05096-0).
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:hqOjcs7Dif8C'></span>
+
+- **Tao He**, Jixiang Guo, Wei Tang, Wei Zeng, Ping He, Fanxin Zeng, and Zhang Yi\*. Cascade-refine model for cephalometric landmark detection in high-resolution orthodontic images. Knowledge-Based Systems 265 (2023): 110332. [https://doi.org/10.1016/j.knosys.2023.110332](https://doi.org/10.1016/j.knosys.2023.110332).
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:9yKSN-GCB0IC'></span>
+
+- Yao, Jie, Wei Zeng, **Tao He**, Shanluo Zhou, Yi Zhang, Jixiang Guo, and Wei Tang\*. Automatic localization of cephalometric landmarks based on convolutional neural network. American Journal of Orthodontics and Dentofacial Orthopedics 161, no. 3 (2022): e250-e259. [https://doi.org/10.1016/j.ajodo.2021.09.012](https://doi.org/10.1016/j.ajodo.2021.09.012).
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:2osOgNQ5qMEC'></span>
+
+- **Tao He**, Hua Mao, and Zhang Yi\*. Subtraction gates: Another way to learn long-term dependencies in recurrent neural networks. IEEE Transactions on Neural Networks and Learning Systems 33, no. 4 (2022): 1740-1751. [https://doi.org/10.1109/TNNLS.2020.3043752](https://doi.org/10.1109/TNNLS.2020.3043752).
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:IjCSPb-OGe4C'></span>
+
+- **Tao He**, Jie Yao, Weidong Tian, Zhang Yi, Wei Tang, and Jixiang Guo\*. Cephalometric landmark detection by considering translational invariance in the two-stage framework. Neurocomputing 464 (2021): 15-26. [https://doi.org/10.1016/j.neucom.2021.08.042](https://doi.org/10.1016/j.neucom.2021.08.042).
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:UeHWp8X0CEIC'></span>
+
+- **Tao He**, Lei Zhang, Jixiang Guo, and Zhang Yi\*. Multilabel classification by exploiting data‐driven pair‐wise label dependence. International Journal of Intelligent Systems 35, no. 9 (2020): 1375-1396. [https://doi.org/10.1002/int.22257](https://doi.org/10.1002/int.22257).
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:W7OEmFMy1HYC'></span>
+
+- **Tao He**, Junjie Hu, Ying Song, Jixiang Guo, and Zhang Yi\*. Multi-task learning for the segmentation of organs at risk with label dependence. Medical Image Analysis 61 (2020): 101666. [https://doi.org/10.1016/j.media.2020.101666](https://doi.org/10.1016/j.media.2020.101666).
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:u-x6o8ySG0sC'></span>
+
+- **Tao He**, Jixiang Guo, Nan Chen, Xiuyuan Xu, Zihuai Wang, Kaiyu Fu, Lunxu Liu, and Zhang Yi\*. Medimlp: using grad-cam to extract crucial variables for lung cancer postoperative complication prediction. IEEE journal of biomedical and health informatics 24, no. 6 (2019): 1762-1771. [https://doi.org/10.1109/JBHI.2019.2949601](https://doi.org/10.1109/JBHI.2019.2949601).
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:u5HHmVD_uO8C'></span>
+
+- **Tao He**, Hua Mao, and Zhang Yi\*. Moving object recognition using multi-view three-dimensional convolutional neural networks. Neural computing and applications 28 (2017): 3827-3835. [https://doi.org/10.1007/s00521-016-2277-9](https://doi.org/10.1007/s00521-016-2277-9).
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:zYLM7Y9cAGgC'></span>
+
+- **Tao He**, Hua Mao, Jixiang Guo, and Zhang Yi\*. Cell tracking using deep neural networks with multi-task learning. Image and Vision Computing 60 (2017): 142-153. [https://doi.org/10.1016/j.imavis.2016.11.010](https://doi.org/10.1016/j.imavis.2016.11.010).
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:qjMakFHDy7sC'></span>
+
+### Conference Publication
+
 - Tianqi Xu, Yashi Zhu, Quansong He, Yue Cao, Kaishen Wang, Zhang Yi, and **Tao He**\*. CNM-UNet: Continuous ordinary differential equations for medical image segmentation. In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 40, no. 14, pp. 11406-11414. 2026.
 
 - Le Yu, Jun Wu, Bo Gou, Xiangde Min, Lei Zhang, Zhang Yi, **Tao He**\*. MobileODE: an extra lightweight network. In the proceedings of The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 38 (2026): 120931-120956.
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:9ZlFYXVOiuMC'></span>
-  
-- Quansong He\#, Xiangde Min\#, Kaishen Wang, and **Tao He**\*. FuseUNet: A multi-scale feature fusion method for u-like networks. In the proceedings of International Conference on Machine Learning (ICML), pp. 22669-22685. 2025.
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:Wp0gIr-vW9MC'></span>
-  
-- Quansong He, Xiaojun Yao, Jun Wu, Zhang Yi, and **Tao He**\*. A lightweight U-like network utilizing neural memory ordinary differential equations for slimming the decoder. In the proceedings of International Joint Conference on Artificial Intelligence (IJCAI), pp. 821-829. 2024. [https://doi.org/10.24963/ijcai.2024/91](https://doi.org/10.24963/ijcai.2024/91).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:3fE2CSJIrl8C'></span>
-  
-- Kaishen Wang, Xun Xia, Jian Liu, Zhang Yi, and **Tao He**\*. Strengthening layer interaction via dynamic layer attention. In the proceedings of International Joint Conference on Artificial Intelligence (IJCAI), pp. 5073-5081. 2024. [https://doi.org/10.24963/ijcai.2024/561](https://doi.org/10.24963/ijcai.2024/561).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:ULOm3_A8WrAC'></span>
-  
-- Quansong He, **Tao He**\*, and Zhang Yi. Medical image segmentation using discretized nmODE. In International Annual Conference on Complex Systems and Intelligent Science (CSIS-IAC), pp. 497-503. IEEE, 2023. [https://doi.org/10.1109/CSIS-IAC60628.2023.10363958](https://doi.org/10.1109/CSIS-IAC60628.2023.10363958).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:8k81kl-MbHgC'></span>
-  
-- Yaqi Liu, Li Yang, Tingting Wang, Jianhong Wu, **Tao He**\*, and Zhang Yi. An optimized YOLO model with local attention for arthritis lesion detection on X-Ray images. In 2023 International Annual Conference on Complex Systems and Intelligent Science (CSIS-IAC), pp. 489-496. IEEE, 2023. [https://doi.org/10.1109CSIS-IAC60628.2023.10364047](https://doi.org/10.1109CSIS-IAC60628.2023.10364047).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:4TOpqqG69KYC'></span>
-  
-- Qiang Zhang, Jixiang Guo, **Tao He**, Jie Yao, Wei Tang, and Zhang Yi\*. A novel landmark detection method for cephalometric measurement. In IEEE International Conference on Medical Imaging Physics and Engineering (ICMIPE), pp. 1-10. IEEE, 2021. [https://doi.org/10.1109/ICMIPE53131.2021.9698911](https://doi.org/10.1109/ICMIPE53131.2021.9698911).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:LkGwnXOMwfcC'></span>
-  
-- Boya Wu, Jia Jia\*, **Tao He**, Juan Du, Xiaoyuan Yi, and Yishuang Ning. Inferring users’ emotions for human-mobile voice dialogue applications. In IEEE International Conference on Multimedia and Expo (ICME), pp. 1-6. IEEE, 2016. [https://doi.org/10.1109/ICME.2016.7552890](https://doi.org/10.1109/ICME.2016.7552890).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:YsMSGLbcyi4C'></span>
-  
-- Jia, Jia, Jie Huang, Guangyao Shen, **Tao He**, Zhiyuan Liu, Huanbo Luan, and Chao Yan. Learning to appreciate the aesthetic effects of clothing. In Proceedings of the AAAI conference on artificial intelligence, vol. 30, no. 1. 2016. [https://doi.org/10.1609/aaai.v30i1.10158](https://doi.org/10.1609/aaai.v30i1.10158).
-<span class='show_paper_citations' data='GqLzRsYAAAAJ:eQOLeE2rZwMC'></span>
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:9ZlFYXVOiuMC'></span>
 
-# 🚀 科研项目  
+- Quansong He\#, Xiangde Min\#, Kaishen Wang, and **Tao He**\*. FuseUNet: A multi-scale feature fusion method for u-like networks. In the proceedings of International Conference on Machine Learning (ICML), pp. 22669-22685. 2025.
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:Wp0gIr-vW9MC'></span>
+
+- Quansong He, Xiaojun Yao, Jun Wu, Zhang Yi, and **Tao He**\*. A lightweight U-like network utilizing neural memory ordinary differential equations for slimming the decoder. In the proceedings of International Joint Conference on Artificial Intelligence (IJCAI), pp. 821-829. 2024. [https://doi.org/10.24963/ijcai.2024/91](https://doi.org/10.24963/ijcai.2024/91).
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:3fE2CSJIrl8C'></span>
+
+- Kaishen Wang, Xun Xia, Jian Liu, Zhang Yi, and **Tao He**\*. Strengthening layer interaction via dynamic layer attention. In the proceedings of International Joint Conference on Artificial Intelligence (IJCAI), pp. 5073-5081. 2024. [https://doi.org/10.24963/ijcai.2024/561](https://doi.org/10.24963/ijcai.2024/561).
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:ULOm3_A8WrAC'></span>
+
+- Quansong He, **Tao He**\*, and Zhang Yi. Medical image segmentation using discretized nmODE. In International Annual Conference on Complex Systems and Intelligent Science (CSIS-IAC), pp. 497-503. IEEE, 2023. [https://doi.org/10.1109/CSIS-IAC60628.2023.10363958](https://doi.org/10.1109/CSIS-IAC60628.2023.10363958).
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:8k81kl-MbHgC'></span>
+
+- Yaqi Liu, Li Yang, Tingting Wang, Jianhong Wu, **Tao He**\*, and Zhang Yi. An optimized YOLO model with local attention for arthritis lesion detection on X-Ray images. In 2023 International Annual Conference on Complex Systems and Intelligent Science (CSIS-IAC), pp. 489-496. IEEE, 2023. [https://doi.org/10.1109CSIS-IAC60628.2023.10364047](https://doi.org/10.1109CSIS-IAC60628.2023.10364047).
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:4TOpqqG69KYC'></span>
+
+- Qiang Zhang, Jixiang Guo, **Tao He**, Jie Yao, Wei Tang, and Zhang Yi\*. A novel landmark detection method for cephalometric measurement. In IEEE International Conference on Medical Imaging Physics and Engineering (ICMIPE), pp. 1-10. IEEE, 2021. [https://doi.org/10.1109/ICMIPE53131.2021.9698911](https://doi.org/10.1109/ICMIPE53131.2021.9698911).
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:LkGwnXOMwfcC'></span>
+
+- Boya Wu, Jia Jia\*, **Tao He**, Juan Du, Xiaoyuan Yi, and Yishuang Ning. Inferring users’ emotions for human-mobile voice dialogue applications. In IEEE International Conference on Multimedia and Expo (ICME), pp. 1-6. IEEE, 2016. [https://doi.org/10.1109/ICME.2016.7552890](https://doi.org/10.1109/ICME.2016.7552890).
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:YsMSGLbcyi4C'></span>
+
+- Jia, Jia, Jie Huang, Guangyao Shen, **Tao He**, Zhiyuan Liu, Huanbo Luan, and Chao Yan. Learning to appreciate the aesthetic effects of clothing. In Proceedings of the AAAI conference on artificial intelligence, vol. 30, no. 1. 2016. [https://doi.org/10.1609/aaai.v30i1.10158](https://doi.org/10.1609/aaai.v30i1.10158).
+  <span class='show_paper_citations' data='GqLzRsYAAAAJ:eQOLeE2rZwMC'></span>
+
+</div>
+
+## 🚀 科研项目
+<div class="project-table" markdown="1">
 
 | 执行年限 | 项目来源 | 项目名称 | 排名情况 |
 | --- | --- | --- | --- |
@@ -145,8 +239,9 @@ Tao He received his Ph.D. from the College of Computer Science at Sichuan Univer
 | 2023.01–2024.12 | 达州市市校合作项目 | 基于人工智能的超声图像在乳腺癌患者病理分型中的应用 | 子课题负责人 |
 | 2022.06–2024.06 | 四川省博士后科研项目特别资助 | 面向特征缺失大数据的智能医学研究 | 负责人 |
 
+</div>
 
-# 📚 Teaching
+## 📚 Teaching
 
 - **计算思维与智能方法**  
   面向大一本科生 | 必修课
@@ -160,16 +255,18 @@ Tao He received his Ph.D. from the College of Computer Science at Sichuan Univer
 - **Introduction to AI**  
   面向留学生 | 选修课
 
-# 🏅荣誉
+## 🏅 荣誉
+
 - 2026年四川省科技进步一等奖
 
-# 📋 Academic Services
+## 📋 Academic Services
+### Academic Activity
 
-## Academic Activity
 - Member of IEEE and IEEE Computational Intelligence Society (CIS)
 - Member of Sichuan Institute of Artificial Intelligence
 
-## Journal Reviewers
+### Journal Reviewers
+
 - IEEE Transactions on Cybernetics (TCYB)
 - IEEE Transactions on Neural Network and Learning Systems (TNN)
 - IEEE Transactions on Medical Imaging (TMI)
@@ -177,26 +274,30 @@ Tao He received his Ph.D. from the College of Computer Science at Sichuan Univer
 - Neurocomputing
 - Applied Intelligence
 
-## Conference Reviewers
+### Conference Reviewers
+
 - IJCAI
 - ICML
 - NeurIPS
 - AAAI
 
-# 👨‍🏫 Supervision
+## 👨‍🏫 Supervision
+### Master Students
 
-## Master Students
 - 曹越，熊健龙，张善丰，王泓棱，厉寒冰，黄少洋，国成果
 
-## Undergraduate Students
+### Undergraduate Students
+
 - 何旭冉，许天齐，赵一鸣，于宜辰，马鹏飞，朱雅诗
 
-## Graduates
+### Graduates
+
 - 何全松，2026届硕士研究生，IJCAI 一作+1，ICML 一作+1，国家奖学金+2，港仔机器人智能科技（深圳）有限公司（工作）
 - 余乐，2026届硕士研究生，SCI 一作+1（CIBM），NeurIPS 一作+1，港仔机器人智能科技（深圳）有限公司（工作）
 - 刘雅琪，2024届本科生，SCI 一作+1 (CMIG)，EI 一作+1 (CSIS-IAC)，香港中文大学（深圳）·数据科学专业（硕士）
 - 王凯珅，2025届本科生，IJCAI 一作+1，NeurIPS Workshop 一作+1，ICLR 一作+1，美国马里兰大学·人工智能方向（直博）
 - 崔力，2025届本科生，Neurocomputing 一作+1，北京快手科技有限公司（工作）
 
-
 Thanks to RayeRen at https://github.com/RayeRen/acad-homepage.github.io
+
+</div>
