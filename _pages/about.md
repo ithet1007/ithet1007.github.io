@@ -133,7 +133,18 @@ Tao He received his Ph.D. from the College of Computer Science at Sichuan Univer
   
 - Jia, Jia, Jie Huang, Guangyao Shen, **Tao He**, Zhiyuan Liu, Huanbo Luan, and Chao Yan. Learning to appreciate the aesthetic effects of clothing. In Proceedings of the AAAI conference on artificial intelligence, vol. 30, no. 1. 2016. [https://doi.org/10.1609/aaai.v30i1.10158](https://doi.org/10.1609/aaai.v30i1.10158).
 <span class='show_paper_citations' data='GqLzRsYAAAAJ:eQOLeE2rZwMC'></span>
-  
+
+# 🚀 科研项目  
+
+| 项目来源 | 项目名称 | 排名情况 |
+| --- | --- | --- |
+| 国家自然科学基金青年项目【C类】 | 面向特征缺失医学数据的深度学习模型研究 | 负责人 |
+| 成都市产业链协同创新项目 | 超声脑机接口研发与产业化示范应用 | 子课题负责人 |
+| 四川省自然科学基金青年项目【B类】 | 基于神经记忆常微分方程的医学图像分割模型轻量化研究与应用 | 负责人 |
+| 中国博士后科学基金面上项目 | 面向超声影像扰动因子的神经网络鲁棒性研究 | 负责人 |
+| 四川省博士后科研项目特别资助 | 面向特征缺失大数据的智能医学研究 | 负责人 |
+| 达州市市校合作项目 | 基于人工智能的超声图像在乳腺癌患者病理分型中的应用 | 子课题负责人 |
+
 
 # 📚 Teaching
 
