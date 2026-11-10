@@ -124,7 +124,7 @@ Tao He received his Ph.D. from the College of Computer Science at Sichuan Univer
 <div class="publications" lang="en" markdown="1">
 
 ### Journal Publication
-
+- Chenzhong Wang, Jun Wu, Bo Gou, Jian Liu, **Tao He**, Lei Zhang, and Zhang Yi. Sketch-MVLD: General and Sparse One-Stage Medical Video Lesion Detection. IEEE Transactions on Emerging Topics in Computational Intelligence (2026). doi: [https://doi.org/10.1109/TETCI.2026.3738584](https://doi.org/10.1109/TETCI.2026.3738584).
 - Chaowen Yan, Kaishen Wang, Yong Wang, Jianlong Xiong, **Tao He**\*. Enhancing Oracle Bone Inscription Recognition via Multi-Scale Layer Attention. Information Science 759 (2026): 124083. [https://doi.org/10.1016/j.ins.2026.124083](https://doi.org/10.1016/j.ins.2026.124083)
 
 - Pengfei Ma, Le Yu, Lei Zhang, Zhang Yi, **Tao He**\*. GhostODE: A lightweight network optimized by ordinary differential equation. Neurocomputing 704 (2026): 134898. [https://doi.org/10.1016/j.media.2026.104010](https://doi.org/10.1016/j.media.2026.104010)
